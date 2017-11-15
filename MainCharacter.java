@@ -1,7 +1,7 @@
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
 
-public class MainCharacter implements Moveable {
+public class MainCharacter{
 	// Attributes
 	private double x, y;
 
